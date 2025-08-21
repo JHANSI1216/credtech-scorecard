@@ -1,0 +1,1 @@
+print('Structured ingestion placeholder')
